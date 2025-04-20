@@ -73,6 +73,9 @@ docs/_build/
 # PyBuilder
 target/
 
+#venv
+.venv
+
 # pyenv
 .python-version
 
