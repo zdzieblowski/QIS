@@ -1,4 +1,5 @@
 {
+    "channel": "ibm_cloud",
     "token": "API KEY",
     "instance": "INSTANCE CRN"
 }
