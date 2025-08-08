@@ -148,3 +148,6 @@ notebook/templates/*.html
 # pixi environments
 .pixi
 *.egg-info
+
+# custom
+IBMQ/account/config.json
